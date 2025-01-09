@@ -17,7 +17,7 @@ ______
 };
 
 // Additional Commands
-commands["projects 1"] = "Portfolio Website: A terminal-style site showcasing my skills. [View Project](#)";
+commands["projects 1"] = "Portfolio Website : A terminal-style site showcasing my skills. [View Project](#)";
 commands["projects 2"] = "Financial Tracker: A robust C# app for tracking expenses. <a href= 'https://github.com/Ivankerry/FinancialTracker'  target='_blank'>VIEW PROJECT</a>";
 commands.theme = "Available themes: dark, neon, crt. Use `theme [name]` to switch.";
 commands["theme dark"] = () => switchTheme('');
