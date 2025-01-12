@@ -5,8 +5,8 @@ const commands = {
   education: "B.Sc. in Computer Science from Kibabii University.\n<a href='https://drive.google.com/uc?export=download&id=1xvtYFk3bLz4MVK-xTtqFYEplt3vyNyTb' target='_blank'>Download CV</a>",
   projects: `Type the number of a project for more details:\n1. Portfolio Website ..\n2. Financial Tracker`,
   interests: "I love coding, solving puzzles, and exploring new tech like AI,Data analysis,Machine learning and blockchain.",
-  contact: "Email: kerrymukoya2005@gmail.com \nGitHub: <a href= 'https://github.com/Ivankerry'  target='_blank'>Github</a>",
-  joke: "Why do programmers prefer dark mode? Because light attracts bugs! 🐛",
+  contact: "Email : kerrymukoya2005@gmail.com \nGitHub: <a href= 'https://github.com/Ivankerry'  target='_blank'>Github</a>",
+  joke: " Why do programmers prefer dark mode? Because light attracts bugs! 🐛",
   ascii: `
 ______
 /      \\
