@@ -4,10 +4,10 @@ const typeSound = document.getElementById('type-sound');
 
 // Boot Messages
 const bootMessages = [
-    "Initializing system...",
+    "Initializing your system...",
     "Loading personal portfolio modules...",
     "Connecting to creativity engine...",
-    "Boot complete. Welcome to Kerry's Terminal Portfolio!"
+    "Boot complete initializing . Welcome to Kerry's Terminal Portfolio!"
 ];
 
 function bootUp() {
