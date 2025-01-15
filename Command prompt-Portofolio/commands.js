@@ -1,7 +1,7 @@
 const commands = {
   help: "Available commands: about, skills, education, projects, interests, contact, theme, clear, joke, ascii",
-  about: "Hi, I'm KERRY A passionate developer specializing in creative problem-solving.",
-  skills: "Languages: HTML, CSS, JavaScript, C#, Python\nTools: Node.js, Java, C++, SEO",
+  about: "Hi, I'm Kerry A passionate developer specializing in creative problem-solving.",
+  skills: "Languages: HTML, CSS, JavaScript, Python\nTools: Node.js, Java, C++, SEO",
   education: "B.Sc. in Computer Science from Kibabii University.\n<a href='https://drive.google.com/uc?export=download&id=1xvtYFk3bLz4MVK-xTtqFYEplt3vyNyTb' target='_blank'>Download CV</a>",
   projects: `Type the number of a project for more details:\n1. Portfolio Website ..\n2. Financial Tracker`,
   interests: "I love coding, solving puzzles, and exploring new tech like AI,Data analysis,Machine learning and blockchain.",
@@ -18,7 +18,7 @@ ______
 
 // Additional Commands
 commands["projects 1"] = "Portfolio Website : A terminal-style site showcasing my skills. [View Project](#)";
-commands["projects 2"] = "Financial Tracker: A robust C# app for tracking expenses. <a href= 'https://github.com/Ivankerry/FinancialTracker'  target='_blank'>VIEW PROJECT</a>";
+commands["projects 2"] = "Financial Tracker web : A robust C# app for tracking expenses. <a href= 'https://github.com/Ivankerry/FinancialTracker'  target='_blank'>VIEW PROJECT</a>";
 commands.theme = "Available themes: dark, neon, crt. Use `theme [name]` to switch.";
 commands["theme dark"] = () => switchTheme('');
 commands["theme neon"] = () => switchTheme('neon');
