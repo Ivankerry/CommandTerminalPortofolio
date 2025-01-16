@@ -6,6 +6,7 @@ const typeSound = document.getElementById('type-sound');
 const bootMessages = [
     "Initializing your system...",
     "Loading personal portfolio modules...",
+    "Collecting information "
     "Connecting to creativity engine infinity ...",
     "Boot complete initializing. Welcome to Kerry's Terminal Portfolio!"
 ];
