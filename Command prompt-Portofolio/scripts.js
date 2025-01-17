@@ -4,7 +4,7 @@ const typeSound = document.getElementById('type-sound');
 
 // Boot Messages
 const bootMessages = [
-    "Initializing your system...",
+    "Initializing and analyzing your systems...",
     "Loading personal portfolio modules...",
     "Collecting information "
     "Connecting to creativity engine infinity ...",
