@@ -8,7 +8,7 @@ const bootMessages = [
     "Loading personal portfolio modules...",
     "Collecting information "
     "Connecting to creativity engine infinity ...",
-    "Boot complete initializing. Welcome to Kerry's Terminal Portfolio!"
+    "Boots complete initializing. Welcome to Kerry's Terminal Portfolio!"
 ];
 
 function bootUp() {
