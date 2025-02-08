@@ -1,7 +1,7 @@
 const commands = {
   help : "Available commands: about, skills, education, projects, interests, contact, theme, clear, joke, ascii",
-  myabout : "Hi, I'm Kerry A passionate developer specializing in creative problem-solving.",
-  myskills : "Languages: HTML, CSS, JavaScript, Python\nTools: Node.js, Java, C++, SEO",
+  about : "Hi, I'm Kerry A passionate developer specializing in creative problem-solving.",
+  skills : "Languages: HTML, CSS, JavaScript, Python\nTools: Node.js, Java, C++, SEO",
   myeducation : "B.Sc. in Computer Science from Kibabii University.\n<a href='https://drive.google.com/uc?export=download&id=1xvtYFk3bLz4MVK-xTtqFYEplt3vyNyTb' target='_blank'>Download CV</a>",
   myprojects : `Type the number of a project for more details:\n1. Portfolio Website ..\n2. Financial Tracker`,
   myinterests : "I love coding, solving puzzles, and exploring new tech like AI,Data analysis,Machine learning and blockchain.",
